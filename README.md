@@ -1,6 +1,7 @@
-# CleanArchAng
+# Template Clean Architecture Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+Este proyecto esta basado en la estructura Clean Architecture para tener como base para futuros proyectos que puedan realizar
+[Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
 
