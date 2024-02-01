@@ -1,0 +1,8 @@
+En la carpeta DOMAIN esta dividido en las siguientes carpetas:
+1.- Entities: Estructura de la entidad que proviene de un Api
+2.- Mapper: Conversión de Models a Entities
+3.- Models: Estructura de la entidad en el aplicativo
+4.- Repositories: Funciones abstractas que tendra los Models
+5.- UserCases: Casos de Usos que tenga el Models
+
+DOMAIN se comunica con UI que es todo lo visual

@@ -1,0 +1,3 @@
+En la carpeta INFRAESTRUCTURE esta dividido en las siguientes carpetas:
+1.- Repositories: Es el complemento del Repositorie de Domain, es la codificación completa de las funciones
+INFRAESTRUCTURE se comunica con DOMAIN

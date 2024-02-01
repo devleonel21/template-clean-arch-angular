@@ -1,0 +1,2 @@
+Es todo lo referente al diseño que vera el usuario
+UI recibe información de DOMAIN
